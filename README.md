@@ -1,7 +1,7 @@
-# Starter Web Repo
+# Starter Web Repo edit by Peter
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## Edit some headings
 
-Sample website with plenty of files for demos
+Simply steel some ideas
