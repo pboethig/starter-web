@@ -1,18 +1,6 @@
 # Starter Web Repo edit by Peter
 
-asdasdasd
-
-asdasdasd
-asdasdasd
-
-
-asdasdasd
-
-Add new Contnet for rebasing, extra content now from featurebranch
-
-a copyright here
-
-This repository is for showing how Git and GitHub work
+And another sample
 
 ## Edit some headings
 
